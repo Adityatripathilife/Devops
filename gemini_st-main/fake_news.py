@@ -8,7 +8,7 @@ import google.generativeai as genai
 load_dotenv()
 
 # Configuring the GEN-AI App
-genai.configure(api_key = "AIzaSyChmrkzlnlX1Yh3uiNaFZfdnir_Ix-6n5U")
+genai.configure(api_key = "AIzaSyBUIUSzic69vT9LAW6R4yUrrNS-W5pvZV8")
 
 # User Defined prompt for the News Detection
 prompt = """
